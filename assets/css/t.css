@@ -1,0 +1,37 @@
+.cate-nav .item:hover,
+.cate-nav .item:focus {
+    outline: none;
+}
+
+.product-item .img,
+.product-item .img:focus,
+.product-item .img:hover {
+    outline: none;
+}
+
+.section-notfound .not-found .btn-page {
+    white-space: nowrap;
+}
+
+.sale_price .woocommerce-Price-amount.amount bdi,
+.sale_price .woocommerce-Price-amount.amount bdi span{
+    font-family: Poppins-bold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.015em;
+    color: #6EA820;
+    margin-bottom: 0;
+}
+
+.product-item .content .box p {
+    font-family: Poppins-bold !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 18px !important;
+    line-height: 27px !important;
+    letter-spacing: 0.015em !important;
+    color: #6EA820 !important;
+    margin-bottom: 0 !important;
+}
